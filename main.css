@@ -1,7 +1,8 @@
 p[name="bacon"]{color:palevioletred}
 p[name="lucky"]{color:lightsalmon}
 p[name="luckster"]{color:salmon}
-p[name="blub"]{color:#FF8799;}
+p[name="blub"]{color:#FFABB7;}
+h2[name="dog"]{color:palevioletred}
 .lucky{
     text-align: center;
 }
