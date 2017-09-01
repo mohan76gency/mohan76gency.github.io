@@ -48,16 +48,5 @@ ul li ul li{
 ul li:hover ul li {
     display:block;
 }
-.yona-paragraph{
-    background-color:#FFB3BE;
-    opacity:1
-}
-.hak-paragraph{
-    background-color:#FFB3BE;
-    opacity:1
-}
-.soo-won-paragraph{
-    background-color:#FFB3BE;
-    opacity:1
-}
+
     
