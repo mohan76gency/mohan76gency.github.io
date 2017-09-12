@@ -10,3 +10,12 @@ h4[name="parasyte"]{color:palevioletred}
 .luckster{
    text-align:center;
 }
+footer {
+    padding: 20px;
+    margin-top: 100px;
+    color name=:#F8F8FF;
+    background-color:#ffc6d0;
+    text-align: center;
+    text-decoration: overline
+    font-family: Lucida;
+}
