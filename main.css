@@ -7,15 +7,27 @@ h2[name="dog"]{color:palevioletred}
     text-align: center;
 }
 h4[name="parasyte"]{color:palevioletred}
+h3[name="migi"]{color:palevioletred}
+p[name="shinnichi"]{color:palevioletred}
 .luckster{
    text-align:center;
 }
 footer {
     padding: 20px;
-    margin-top: 100px;
+    margin-top: 200px;
     color name=:#F8F8FF;
     background-color:#ffc6d0;
+    text-align: center;    
+}
+#boxes .box {
+    float: left;
     text-align: center;
-    text-decoration: overline
-    font-family: Lucida;
+    width: 23.1%;
+    padding: 5px;
+}
+div {
+    display: block;
+}
+#boxes {
+    margin-top:-50px;
 }
