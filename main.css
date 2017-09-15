@@ -14,7 +14,7 @@ p[name="shinnichi"]{color:palevioletred}
 }
 footer {
     padding: 50px;
-    margin-top: 350px;
+    margin-top:0px;
     color name=:#F8F8FF;
     background-color:#ffc6d0;
     text-align: center;    
@@ -31,3 +31,11 @@ div {
 #boxes {
     margin-top:-60px;
 }
+.footer {
+    background-color: #DB7093;
+    margin-top: 350px;
+    padding: 1px;
+    text-align: center;
+}
+.bakugo {
+    text-align: center;s
