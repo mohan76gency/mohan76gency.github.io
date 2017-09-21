@@ -33,8 +33,7 @@ div {
 }
 .footer {
     background-color: #DB7093;
-    margin-top: 350px;
-    padding: 1px;
+    margin-top: 150px;
     text-align: center;
 }
 .bakugo {
@@ -45,4 +44,7 @@ div {
 }
 .godhelpme {
     text-align: center;    
+}
+.yonachibi {
+  text-align: center;    
 }
