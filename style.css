@@ -42,7 +42,7 @@ ul li:hover {
     background-color:palevioletred;
 }  
 ul li ul li{
-    display: none;
+    display:none;
     width: 100%;
 }
 ul li:hover ul li {
